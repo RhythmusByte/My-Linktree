@@ -14,8 +14,10 @@ function App() {
         </div>
 
         <h2 className="name">Akhil Mahesh</h2>
-        <p className="about">
-          Software Engineer Aspirant<br />
+        <p className="about-1">
+          Software Engineer Aspirant
+        </p>
+        <p className='about-2'>
           Student at <b>University of Calicut</b>
         </p>
 
