@@ -64,9 +64,9 @@ body {
   inset: -10px 0px;
   background: conic-gradient(
     #00fff2,
-    #ff00ff,
+    #00baaf,
     #00ffaa,
-    #ff00f2,
+    #00a2ff,
     #00fff2
   );
   transition: 0.5s;
