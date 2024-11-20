@@ -1,6 +1,4 @@
-import React from 'react';
-
-const Footer = ({ currentYear }) => {
+function Footer({ currentYear }) {
   return (
     <footer>
       <h3 id="copyright">
@@ -8,7 +6,6 @@ const Footer = ({ currentYear }) => {
       </h3>
     </footer>
   );
-};
+}
 
 export default Footer;
-
